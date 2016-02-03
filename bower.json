@@ -1,0 +1,28 @@
+{
+  "name": "myangular",
+  "description": "",
+  "main": "app.js",
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^1.1.2",
+    "angular": "^1.4.9"
+  },
+  "devDependencies": {
+    "angular-bootstrap": "^1.1.2",
+    "angular": "^1.4.9",
+    "bootstrap": "^3.3.6",
+    "angular-loading-bar": "^0.8.0",
+    "angular-route": "^1.4.9"
+  }
+}
